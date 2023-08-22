@@ -31,6 +31,13 @@
 |Power BI| Completo + 65 soluções DAX |[Udemy](https://www.udemy.com/course/power-bi-completo-40-solucoes-em-dax/)|
 |Analista de Dados e BI| 28 horas - Linguagem SQL e Modelagem de Dados, do básico ao avançado| [Udemy](https://www.udemy.com/course/curso-powerbi-completo/?kw=analista+de+dados&src=sac)|
 |Exel +Power BI Avançado| Desde os primeiros passos e configurações de layout até a parte mais avançada de planilhas, gráficos, macros, funções e dashboards. |[Expert cursos](https://experttcursos.com.br/)|
+|
+
+## 🛰🌍 CONTATOS
+
+- [LinkedIn](https://www.linkedin.com/in/afonso-nobrega-544a53158/)
+- [Github](https://github.com/NobregaAfonso83)
+
 
 
 
