@@ -8,16 +8,6 @@
 
 ## É com imensa satisfação que apartir  da plataforma [DIO](dio.me) e também do progama de bolsas [Santander](https://www.becas-santander.com/pt_br/index.html), dou meus primeiros passos na área da tecnologia onde que através do curso de Ciênciasde Dados tive a oportunidade de estar conhecendo software [Git](https://git-scm.com/), um sistema de controle de versão distribuido, gratuito e Open Sourcee tambem a plataforma [Github](github.com) que nada mais é que uma plataforma de hospedagem de código para controle de versão com o Git, uma comunidade ativa utilizada mundialmente. Este é apenas o início de um aprendizado constante e tenho certeza que logo estarei apto para colaborar no desenvolvimento de grandes empresas do mercado, sempre gostei de elaborar planilhas no Exel, e a pouco tempo descobri a ferramenta [PowerBI](https://powerbi.microsoft.com/pt-br/) por qual estou fascinado e gostando muito de criar Dashboards, esta ferramenta me trouxe ate aqui e fez com que eu me interessasse muito em ingressar no mercado de Analise de Dados.
 
-
-
-
-
-
-
-
-
-
-
 # ☁ SOFT SKILLS
 
 
